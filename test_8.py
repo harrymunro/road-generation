@@ -1,5 +1,4 @@
 '''
-Improbable interview script
 Automatic generation of a city road network
 
 Characteristics of road network:
